@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-sakurusurya2000-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryateja-sakuru-sai/)](https://www.linkedin.com/in/suryateja-sakuru-sai/)
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/suryateja-sakuru-sai/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryateja-sakuru-sai/)](https://www.linkedin.com/in/suryateja-sakuru-sai/)
 [![Gmail Badge](https://img.shields.io/badge/-sakurusurya2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakurusurya2000@gmail.com)](mailto:pranjal27bhardwaj@gmail.com)
 ---
 <p  align="center"><img height="500" src = "https://github.com/sakurusura2000/sakurusurya2000/lob/master/mee.gif"></p>
