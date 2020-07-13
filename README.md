@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sakurusurya2000-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryateja-sakuru-sai/)](https://www.linkedin.com/in/suryateja-sakuru-sai/)
 [![Gmail Badge](https://img.shields.io/badge/-sakurusurya2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakurusurya2000@gmail.com)](mailto:pranjal27bhardwaj@gmail.com)
 ---
-<p  align="center"><img height="500" src = "https://github.com/sakurusura2000/sakurusurya2000/blob/master/mee.gif"></p>
+<p  align="center"><img height="500" src = "https://github.com/sakurusurya2000/sakurusurya2000/blob/master/mee.gif"></p>
 
 # Welcome
 I'm S Sai Suryateja, sophomore at VIT, Vellore. I am experienced In building scalable Machine learning models and Artificial Intelligence algorithms. I also have experience with Cyber Security frameworks and Network protocols. Blockchain enthusiast and developer. Business analytics, Sales, Digital Marketing are some of the areas I have gathered foundational knowledge. Experienced in making business and scaling plans for organizations.
